@@ -1,2 +1,2 @@
-# IMAGE-PROCESSING-CODE
-This repository content my source code in Image processing in C and C++ with OpenCV
+# IMAGE-PROCESSING - SIFT descriptor
+This repository content my source code of SIFT descriptor in C and C++ with OpenCV. 
